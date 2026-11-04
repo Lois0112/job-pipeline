@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-04",
+  "profile": "通信工程 2027 届本科 · CET-4 / 计算机二级 · Python / ESP32 / OFDM 仿真",
+  "scope": [
+    "长沙",
+    "怀化",
+    "太原",
+    "北京",
+    "上海",
+    "深圳",
+    "广州",
+    "杭州"
+  ],
+  "jobs": [
+    {
+      "title": "信息通信业务岗（网络维护与服务支撑、网发建设）",
+      "company": "中国电信 湖南省公司",
+      "city": "长沙",
+      "track": "国企央企-通信",
+      "deadline": "以省公司公告为准",
+      "url": "https://job.chinatelecom.com.cn/wt/TELE/web/"
+    },
+    {
+      "title": "电子信息类（含通信工程专业）第一批校招",
+      "company": "国家电网 湖南省电力 / 山西省电力",
+      "city": "长沙 / 太原",
+      "track": "国企央企-通信",
+      "deadline": "公告预计 11 月中旬，网申约至 11 月底",
+      "url": "https://zhaopin.sgcc.com.cn"
+    },
+    {
+      "title": "嵌入式 AI 软件设计 / 电磁环境效应测试",
+      "company": "中国电子科技集团 第三十三研究所",
+      "city": "太原",
+      "track": "国企央企-电子信息",
+      "deadline": "招满即止",
+      "url": "https://33.cetc.com.cn/"
+    },
+    {
+      "title": "元器件可靠性技术研发岗（芯片 / 射频微波测试）",
+      "company": "航天科工 防御技术研究试验中心",
+      "city": "北京",
+      "track": "国企央企-电子信息",
+      "deadline": "2027-01-30",
+      "url": "https://www.iguopin.com/"
+    },
+    {
+      "title": "射频工程师",
+      "company": "七十迈（70mai）",
+      "city": "上海 / 深圳",
+      "track": "通信工程-射频",
+      "deadline": "招满即止",
+      "url": "https://70mai.zhiye.com/campus/jobs"
+    },
+    {
+      "title": "测试工程师 / 运维工程师（通信行业交付方向）",
+      "company": "亚信科技（中国）",
+      "city": "长沙 / 太原 / 北京",
+      "track": "通信工程-测试/网络优化",
+      "deadline": "10—11 月线上笔试",
+      "url": "https://www.asiainfo.com/"
+    },
+    {
+      "title": "嵌入式软件开发工程师（应用 / BSP）",
+      "company": "海康威视",
+      "city": "杭州",
+      "track": "电子信息-嵌入式",
+      "deadline": "招满即停",
+      "url": "https://campushr.hikvision.com/"
+    },
+    {
+      "title": "硬件开发工程师（原理图 / PCB / 调试）",
+      "company": "云尖信息技术",
+      "city": "杭州",
+      "track": "电子信息-硬件",
+      "deadline": "招满即止",
+      "url": "https://www.yunjian.com/"
+    },
+    {
+      "title": "AI 应用开发 / 全栈开发",
+      "company": "万兴科技",
+      "city": "长沙 / 深圳",
+      "track": "互联网-AI 应用",
+      "deadline": "招满即止",
+      "url": "https://wondersharecampus.zhiye.com/campus/jobs"
+    },
+    {
+      "title": "前端开发 / 测试工程师",
+      "company": "慧策（北京掌上先机）",
+      "city": "北京",
+      "track": "互联网-前端/测试",
+      "deadline": "招满即止",
+      "url": "https://huicecom.zhiye.com/Campus"
+    },
+    {
+      "title": "AI 应用 / 前后端 / 嵌入式（计算机及 AI 类）",
+      "company": "三一集团",
+      "city": "长沙",
+      "track": "互联网-AI 应用",
+      "deadline": "2027-05-31",
+      "url": "https://sany.zhiye.com/campus/jobs"
+    },
+    {
+      "title": "信息通信业务岗（网络维护与服务支撑、网发建设）",
+      "company": "中国电信 湖南省公司",
+      "city": "长沙",
+      "track": "国企央企-通信",
+      "deadline": "以省公司公告为准",
+      "url": "https://job.chinatelecom.com.cn/wt/TELE/web/"
+    }
+  ],
+  "no_match_notes": [
+    {
+      "city": "怀化",
+      "note": "未检索到 2027 届通信 / 电子信息类在投岗位的独立公告。地市分公司岗位一般挂在省公司公告下面，不会单独发帖——正确做法是在省公司网申系统里把意向工作地点筛成「怀化分公司」。"
+    }
+  ],
+  "advice": [
+    "国家电网第一批是本周唯一「还没开但马上开」的窗口。公告预计 11 月中旬发布、12 月 6 日笔试，通信工程归在电子信息类里招，本科可报。现在要备齐学籍验证报告、盖章成绩单、CET-4 成绩单，并提前在网申系统注册、把专业名称逐字对齐学信网——提交后不可修改。",
+    "本科 + 仿真项目的组合，主战场是「测试 / 射频 / 网络优化」，不是「通信算法研发」。电科 33 所、航天科工下属所岗位质量高但简章写硕士起，看清门槛再把精力错开。真正匹配的是海康（射频/测试）、七十迈（射频/嵌入式）、亚信（测试/网络）、云尖（硬件）。",
+    "万兴科技值得单独投一次，优先投长沙岗：2027 届产研岗占比高、设「实习转正 + 秋招直招」双通道，AI 应用岗要的 Python 能力正好对上嵌入式项目经历。"
+  ]
+}
